@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm < Zakaria />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I like to build stuff for the web.</h3>
 <br>
-I recently graduated from the web development Lighthouse Labs bootcamp, but I have been a self-taught developer for almost 2 years.
+I recently graduated from the web development bootcamp at Lighthouse Labs, but I have been a self-taught developer for almost 2 years.
 
 - 💼 Got a job opening? Get in touch with me!
 - 🔭 I have a background in ecommerce, sales and web development.
@@ -11,9 +11,9 @@ I recently graduated from the web development Lighthouse Labs bootcamp, but I ha
 
 ---
 
-### Stack, Languages and Tools:
+<h3 align="center"> Stack, Languages and Tools <h3>
 
-<div align="center">   
+<div align="center" width="50px">   
    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50'/> 
@@ -25,6 +25,12 @@ I recently graduated from the web development Lighthouse Labs bootcamp, but I ha
    <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/>
    <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' width='50'/> 
 </div>
+
+---
+
+### Reach out and say hello:
+[![Linkedin Badge](https://img.shields.io/badge/-Zakaria_Warsame-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariawarsame/)
+[![Mail Badge](https://img.shields.io/badge/-Zakaria_Warsame-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zakaria.warsamee@gmail.com)
 
 
 
