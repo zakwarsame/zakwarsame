@@ -2,16 +2,16 @@
 <h1 align="center">Hi, I'm < Zakaria />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I like to build stuff for the web.</h3>
 <br>
-I recently graduated from the web development bootcamp at Lighthouse Labs, but I have been a self-taught developer for almost 2 years.
+<!-- I recently graduated from the web development bootcamp at Lighthouse Labs, but I have been a self-taught developer for almost 2 years. -->
 
-- 💼 Got a job opening? Get in touch with me!
 - 🔭 I have a background in ecommerce, sales and web development.
 - 🌱 I’m currently learning web3, GraphQL and Ruby.
 - 👯 I’m looking to collaborate on any modern stack used in fullstack web development
+<!-- - 💼 Got a job opening? Get in touch with me! -->
 
----
+<!-- --- -->
 
-<h3 align="center"> Stack, Languages and Tools <h3>
+<!-- <h3 align="center"> Stack, Languages and Tools <h3>
 
 <div align="center" width="50px">   
    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50'/> 
@@ -24,7 +24,7 @@ I recently graduated from the web development bootcamp at Lighthouse Labs, but I
    <img src='https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/>
    <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' width='50'/> 
-</div>
+</div> -->
 
 ---
 
