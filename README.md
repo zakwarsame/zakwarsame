@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm < Zakaria />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30%" /></h1>
+<h1 align="center">Hi, I'm < Zakaria />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" /></h1>
 <h3 align="center">I like to build stuff for the web.</h3>
 <br>
 <!-- I recently graduated from the web development bootcamp at Lighthouse Labs, but I have been a self-taught developer for almost 2 years. -->
