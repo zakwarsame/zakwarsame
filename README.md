@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi, I'm < Zakaria />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" /></h1>
+<h1 align="center">Hi, I'm &lt;Zakaria/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" /></h1>
 <h3 align="center">I like to build stuff for the web.</h3>
 <br>
 <!-- I recently graduated from the web development bootcamp at Lighthouse Labs, but I have been a self-taught developer for almost 2 years. -->
 
 - 🔭 I have a background in ecommerce, sales and web development.
 - 🌱 I’m currently learning web3, GraphQL and Ruby.
-- 👯 I’m looking to collaborate on any modern stack used in fullstack web development
+- 👯 I’m looking to collaborate on any modern stack used in fullstack web development https://app.shopify.<your spin FQDN ending in .dev>/services/internal/shops/1 (for spin)
 <!-- - 💼 Got a job opening? Get in touch with me! -->
 
 <!-- --- -->
