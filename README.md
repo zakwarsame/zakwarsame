@@ -6,7 +6,7 @@
 
 - 🔭 I have a background in ecommerce, sales and web development.
 - 🌱 I’m currently learning web3, GraphQL and Ruby.
-- 👯 I’m looking to collaborate on any modern stack used in fullstack web development https://app.shopify.<your spin FQDN ending in .dev>/services/internal/shops/1 (for spin)
+- 👯 I’m looking to collaborate on any modern stack used in fullstack web development
 <!-- - 💼 Got a job opening? Get in touch with me! -->
 
 <!-- --- -->
