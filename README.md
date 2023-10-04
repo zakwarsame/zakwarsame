@@ -31,7 +31,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariawarsame/)
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zakaria.warsamee@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=black)](https://www.twitter.com/zak_py)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=black)](https://www.twitter.com/zak_tsx)
 
 <!--
 **zakwarsame/zakwarsame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
